@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-/* Mobile First Approach (480px) */
+/* Mobile First Approach (520px) */
 *[class^="grid"] {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
@@ -13,7 +13,7 @@
 }
 
 /* Upper Devices */
-@media only screen and (min-width : 480px) {
+@media only screen and (min-width : 520px) {
   .grid-1 {
     grid-template-columns: repeat(1, 1fr);
   }
