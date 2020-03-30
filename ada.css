@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 *[class^="grid"] {
   display: grid;
 }
@@ -44,4 +48,11 @@
 
 .grid-10 {
   grid-template-columns: repeat(10, 1fr);
+}
+
+/* Mobile Phones */
+@media only screen and (max-width : 480px) {
+  *[class^="grid"] {
+    grid-template-columns: repeat(1, 1fr);
+  }
 }
