@@ -14,8 +14,48 @@
   grid-template-columns: repeat(1, 1fr);
 }
 
+.grid-xs-1 {
+  grid-template-columns: repeat(1, 1fr);
+}
+
+.grid-xs-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.grid-xs-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.grid-xs-4 {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.grid-xs-5 {
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.grid-xs-6 {
+  grid-template-columns: repeat(6, 1fr);
+}
+
+.grid-xs-7 {
+  grid-template-columns: repeat(7, 1fr);
+}
+
+.grid-xs-8 {
+  grid-template-columns: repeat(8, 1fr);
+}
+
+.grid-xs-9 {
+  grid-template-columns: repeat(9, 1fr);
+}
+
+.grid-xs-10 {
+  grid-template-columns: repeat(10, 1fr);
+}
+
 /* Upper Devices */
-@media only screen and (min-width : 520px) {
+@media only screen and (min-width : 480px) {
   .grid-1 {
     grid-template-columns: repeat(1, 1fr);
   }
