@@ -29,9 +29,9 @@ Now, I know what you may be thinking, we don't need yet another CSS framework! T
 Ada comes with standard classes which you can use to style the various number of columns you want by simply including them in your html file.
 
 #### Grid Classes
-The **grid** classes (**grid-1**, **grid-2** .... **grid-10**) provides column styling for various types of scenarios. For instance, if you wish to style a 3 column row, all you have to do is:
+The **grid** classes (**grid-md-1**, **grid-md-2** .... **grid-md-10**) provides column styling for various types of scenarios. For instance, if you wish to style a 3 column row, all you have to do is:
 ```
-<div class="grid-3">
+<div class="grid-md-3">
   <div>
   </div>
   <div>
