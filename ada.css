@@ -141,3 +141,46 @@
     grid-template-columns: repeat(10, 1fr);
   }
 }
+
+/* Large Devices (1960px) */
+@media only screen and (min-width: 1960px) {
+  .grid-lg-1 {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .grid-lg-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .grid-lg-3 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .grid-lg-4 {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .grid-lg-5 {
+    grid-template-columns: repeat(5, 1fr);
+  }
+
+  .grid-lg-6 {
+    grid-template-columns: repeat(6, 1fr);
+  }
+
+  .grid-lg-7 {
+    grid-template-columns: repeat(7, 1fr);
+  }
+
+  .grid-lg-8 {
+    grid-template-columns: repeat(8, 1fr);
+  }
+
+  .grid-lg-9 {
+    grid-template-columns: repeat(9, 1fr);
+  }
+
+  .grid-lg-10 {
+    grid-template-columns: repeat(10, 1fr);
+  }
+}
