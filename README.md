@@ -40,9 +40,10 @@ The **grid** classes (**grid-md-1**, **grid-md-2** .... **grid-md-10**) provides
   </div>
 </div>
 ```
+**The numbering system applied to any grid class represents the number of columns that is applied to that row, for e.g. grid-sm-4 means four columns will be applied to that row for devices that have at least 520px viewport width. This is different from what is obtainable in Bootstrap and should not be confused with it.**
 
-#### Mobile Responsive
-The **grid** classes resolve to a one column styling at break point 480px.
+#### Break Points
+The **grid** classes resolve to various screen sizes at 520px (sm), 1024px (md) & 1960px (lg) respectively.
 
 ### Contributions
 Anyone and everyone is welcome to contribute. Make sure you're using the latest version of Ada before submitting an issue. 
