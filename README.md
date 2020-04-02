@@ -56,6 +56,16 @@ The uneven grid column classes numbering (**11**, **12**, **13**, **14**, **15**
 </div>
 ```
 
+Here's how you can acheive a **66.66%:33.33%** column styling using the **grid-sm-21**, **grid-md-21** & **grid-lg-21**:
+```
+<div class="grid-md-21">
+  <div>
+  </div>
+  <div>
+  </div>
+</div>
+```
+
 ### Contributions
 Anyone and everyone is welcome to contribute. Make sure you're using the latest version of Ada before submitting an issue. 
 
