@@ -45,6 +45,17 @@ The **grid** classes (**grid-md-1**, **grid-md-2** .... **grid-md-10**) provides
 #### Break Points
 The **grid** classes resolve to various screen sizes at 520px (sm), 1024px (md) & 1960px (lg) respectively.
 
+#### Uneven Grid Column Classes
+The uneven grid column classes numbering (**11**, **12**, **13**, **14**, **15**, **51**, **41**, **31**, **21**, **11**) help you acheive uneven column effects. For e.g. if you need to style a **25%:75% column*, the **grid-sm-13**, **grid-md-13** & **grid-lg-13** can be used to a acheive such effect like so:
+```
+<div class="grid-md-13">
+  <div>
+  </div>
+  <div>
+  </div>
+</div>
+```
+
 ### Contributions
 Anyone and everyone is welcome to contribute. Make sure you're using the latest version of Ada before submitting an issue. 
 
