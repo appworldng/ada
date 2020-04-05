@@ -84,6 +84,14 @@
   grid-template-columns: 4fr 1fr;
 }
 
+.grid-xs-23 {
+  grid-template-columns: 2fr 3fr;
+}
+
+.grid-xs-32 {
+  grid-template-columns: 3fr 2fr;
+}
+  
 /* Smaller Devices - Tablets (520px) */
 @media only screen and (min-width: 520px) {
   .grid-sm-1 {
@@ -152,6 +160,14 @@
 
   .grid-sm-41 {
     grid-template-columns: 4fr 1fr;
+  }
+  
+  .grid-sm-23 {
+    grid-template-columns: 2fr 3fr;
+  }
+
+  .grid-sm-32 {
+    grid-template-columns: 3fr 2fr;
   }
 }
 
