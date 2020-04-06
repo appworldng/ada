@@ -240,6 +240,14 @@
   .grid-md-41 {
     grid-template-columns: 4fr 1fr;
   }
+  
+  .grid-md-23 {
+    grid-template-columns: 2fr 3fr;
+  }
+
+  .grid-md-32 {
+    grid-template-columns: 3fr 2fr;
+  }
 }
 
 /* Large Devices (1960px) */
@@ -310,5 +318,13 @@
 
   .grid-lg-41 {
     grid-template-columns: 4fr 1fr;
+  }
+  
+  .grid-lg-23 {
+    grid-template-columns: 2fr 3fr;
+  }
+
+  .grid-lg-32 {
+    grid-template-columns: 3fr 2fr;
   }
 }
