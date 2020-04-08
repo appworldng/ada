@@ -42,9 +42,6 @@ The **grid** classes (**grid-md-1**, **grid-md-2** .... **grid-md-10**) provides
 ```
 **The numbering system applied to any grid class represents the number of columns that is applied to that row, for e.g. grid-sm-4 means four columns will be applied to that row for devices that have at least 520px viewport width. This is different from what is obtainable in Bootstrap and should not be confused with it.**
 
-#### Break Points
-The **grid** classes resolve to various screen sizes at 520px (sm), 1024px (md) & 1960px (lg) respectively.
-
 #### Uneven Grid Column Classes
 The uneven grid column classes numbering (**11**, **12**, **13**, **14**, **41**, **31**, **21**, **11**) help you acheive uneven column effects. For e.g. if you need to style a **25%:75% column**, the **grid-sm-13**, **grid-md-13** & **grid-lg-13** can be used to a acheive such effect like so:
 ```
@@ -65,6 +62,9 @@ Here's how you can acheive a **66.66%:33.33%** column styling using the **grid-s
   </div>
 </div>
 ```
+
+### Break Points
+The **grid** classes resolve to various screen sizes at 520px (sm), 1024px (md) & 1960px (lg) respectively.
 
 ### Contributions
 Anyone and everyone is welcome to contribute. Make sure you're using the latest version of Ada before submitting an issue. 
