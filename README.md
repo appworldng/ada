@@ -63,6 +63,24 @@ Here's how you can acheive a **66.66%:33.33%** column styling using the **grid-s
 </div>
 ```
 
+### Classes
+<table>
+  <tr>
+    <td>
+      **grid-xs-1** 
+    </td>
+    <td>
+      **grid-sm-1** 
+    </td>
+    <td>
+      **grid-md-1** 
+    </td>
+    <td>
+      **grid-lg-1** 
+    </td>
+  </tr>
+</table>
+
 ### Break Points
 The **grid** classes resolve to various screen sizes at 520px (sm), 1024px (md) & 1960px (lg) respectively.
 
