@@ -136,6 +136,73 @@ Here's how you can acheive a **66.66%:33.33%** column styling using the **grid-s
   </tr>
 </table>
 
+<table width="100%">
+  <tr>
+    <td><strong>Columns</strong></td>
+    <td><strong>xs</strong></td>
+    <td><strong>sm</strong></td>
+    <td><strong>md</strong></td>
+    <td><strong>lg</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <strong>50% : 50%</strong><br/>
+      <strong>33.33% : 66.66%</strong><br/>
+      <strong>25% : 75%</strong><br/>
+      <strong>20% : 80%</strong><br/>
+      <strong>66.66% : 33.33%</strong><br/>
+      <strong>75% : 25%</strong><br/>
+      <strong>80% : 20%</strong><br/>
+      <strong>40% : 60%</strong><br/>
+      <strong>60% : 40%</strong><br/>
+    </td>
+    <td>
+      <strong>grid-xs-11</strong><br/>
+      <strong>grid-xs-12</strong><br/>
+      <strong>grid-xs-13</strong><br/>
+      <strong>grid-xs-14</strong><br/>
+      <strong>grid-xs-21</strong><br/>
+      <strong>grid-xs-31</strong><br/>
+      <strong>grid-xs-41</strong><br/>
+      <strong>grid-xs-23</strong><br/>
+      <strong>grid-xs-32</strong><br/>
+    </td>
+    <td>
+      <strong>grid-sm-11</strong><br/>
+      <strong>grid-sm-12</strong><br/>
+      <strong>grid-sm-13</strong><br/>
+      <strong>grid-sm-14</strong><br/>
+      <strong>grid-sm-21</strong><br/>
+      <strong>grid-sm-31</strong><br/>
+      <strong>grid-sm-41</strong><br/>
+      <strong>grid-sm-23</strong><br/>
+      <strong>grid-sm-32</strong><br/>
+    </td>
+    <td>
+      <strong>grid-md-11</strong><br/>
+      <strong>grid-md-12</strong><br/>
+      <strong>grid-md-13</strong><br/>
+      <strong>grid-md-14</strong><br/>
+      <strong>grid-md-21</strong><br/>
+      <strong>grid-md-31</strong><br/>
+      <strong>grid-md-41</strong><br/>
+      <strong>grid-md-23</strong><br/>
+      <strong>grid-md-32</strong><br/>
+    </td>
+    <td>
+      <strong>grid-lg-11</strong><br/>
+      <strong>grid-lg-12</strong><br/>
+      <strong>grid-lg-13</strong><br/>
+      <strong>grid-lg-14</strong><br/>
+      <strong>grid-lg-21</strong><br/>
+      <strong>grid-lg-31</strong><br/>
+      <strong>grid-lg-41</strong><br/>
+      <strong>grid-lg-23</strong><br/>
+      <strong>grid-lg-32</strong><br/>
+    </td>
+  </tr>
+</table>
+
 ### Break Points
 The **grid** classes resolve to various screen sizes at 520px (sm), 1024px (md) & 1960px (lg) respectively.
 
