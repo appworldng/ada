@@ -66,12 +66,25 @@ Here's how you can acheive a **66.66%:33.33%** column styling using the **grid-s
 ### Classes
 <table width="100%">
   <tr>
-    <td><strong>xs</strong>
-    <td><strong>sm</strong>
-    <td><strong>md</strong>
-    <td><strong>lg</strong>
+    <td><strong>Columns</strong></td>
+    <td><strong>xs</strong></td>
+    <td><strong>sm</strong></td>
+    <td><strong>md</strong></td>
+    <td><strong>lg</strong></td>
   </tr>
   <tr>
+    <td>
+      <strong>1 equal column</strong><br/>
+      <strong>2 equal columns</strong><br/>
+      <strong>3 equal columns</strong><br/>
+      <strong>4 equal columns</strong><br/>
+      <strong>5 equal columns</strong><br/>
+      <strong>6 equal columns</strong><br/>
+      <strong>7 equal columns</strong><br/>
+      <strong>8 equal columns</strong><br/>
+      <strong>9 equal columns</strong><br/>
+      <strong>10 equal columns</strong><br/>
+    </td>
     <td>
       <strong>grid-xs-1</strong><br/>
       <strong>grid-xs-2</strong><br/>
