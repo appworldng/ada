@@ -67,16 +67,25 @@ Here's how you can acheive a **66.66%:33.33%** column styling using the **grid-s
 <table>
   <tr>
     <td>
-      **grid-xs-1** 
+      <strong>grid-xs-1</strong><br/>
+      <strong>grid-xs-2</strong><br/>
+      <strong>grid-xs-3</strong><br/>
+      <strong>grid-xs-4</strong><br/>
+      <strong>grid-xs-5</strong><br/>
+      <strong>grid-xs-6</strong><br/>
+      <strong>grid-xs-7</strong><br/>
+      <strong>grid-xs-8</strong><br/>
+      <strong>grid-xs-9</strong><br/>
+      <strong>grid-xs-10</strong><br/>
     </td>
     <td>
-      **grid-sm-1** 
+      <strong>grid-sm-1</strong>
     </td>
     <td>
-      **grid-md-1** 
+      <strong>grid-md-1</strong>
     </td>
     <td>
-      **grid-lg-1** 
+      <strong>grid-lg-1</strong>
     </td>
   </tr>
 </table>
