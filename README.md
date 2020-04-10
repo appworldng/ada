@@ -64,7 +64,13 @@ Here's how you can acheive a **66.66%:33.33%** column styling using the **grid-s
 ```
 
 ### Classes
-<table>
+<table width="100%">
+  <tr>
+    <td><strong>xs</strong>
+    <td><strong>sm</strong>
+    <td><strong>md</strong>
+    <td><strong>lg</strong>
+  </tr>
   <tr>
     <td>
       <strong>grid-xs-1</strong><br/>
@@ -79,13 +85,40 @@ Here's how you can acheive a **66.66%:33.33%** column styling using the **grid-s
       <strong>grid-xs-10</strong><br/>
     </td>
     <td>
-      <strong>grid-sm-1</strong>
+      <strong>grid-sm-1</strong><br/>
+      <strong>grid-sm-2</strong><br/>
+      <strong>grid-sm-3</strong><br/>
+      <strong>grid-sm-4</strong><br/>
+      <strong>grid-sm-5</strong><br/>
+      <strong>grid-sm-6</strong><br/>
+      <strong>grid-sm-7</strong><br/>
+      <strong>grid-sm-8</strong><br/>
+      <strong>grid-sm-9</strong><br/>
+      <strong>grid-sm-10</strong><br/>
     </td>
     <td>
-      <strong>grid-md-1</strong>
+      <strong>grid-md-1</strong><br/>
+      <strong>grid-md-2</strong><br/>
+      <strong>grid-md-3</strong><br/>
+      <strong>grid-md-4</strong><br/>
+      <strong>grid-md-5</strong><br/>
+      <strong>grid-md-6</strong><br/>
+      <strong>grid-md-7</strong><br/>
+      <strong>grid-md-8</strong><br/>
+      <strong>grid-md-9</strong><br/>
+      <strong>grid-md-10</strong><br/>
     </td>
     <td>
-      <strong>grid-lg-1</strong>
+      <strong>grid-lg-1</strong><br/>
+      <strong>grid-lg-2</strong><br/>
+      <strong>grid-lg-3</strong><br/>
+      <strong>grid-lg-4</strong><br/>
+      <strong>grid-lg-5</strong><br/>
+      <strong>grid-lg-6</strong><br/>
+      <strong>grid-lg-7</strong><br/>
+      <strong>grid-lg-8</strong><br/>
+      <strong>grid-lg-9</strong><br/>
+      <strong>grid-lg-10</strong><br/>
     </td>
   </tr>
 </table>
