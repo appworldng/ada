@@ -1,0 +1,27 @@
+{
+  "name": "ada",
+  "version": "1.0.0",
+  "description": "A simplistic, bare bones CSS framework based on CSS grids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chigozieorunta/ada.git"
+  },
+  "keywords": [
+    "css",
+    "grid",
+    "framework",
+    "chigozie",
+    "orunta",
+    "chigozieorunta"
+  ],
+  "author": "Chigozie Orunta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chigozieorunta/ada/issues"
+  },
+  "homepage": "https://github.com/chigozieorunta/ada#readme"
+}
