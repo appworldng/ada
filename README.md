@@ -207,5 +207,5 @@ Here's how you can acheive a **66.66%:33.33%** column styling using the **grid-s
 The **grid** classes resolve to various screen sizes at 520px (sm), 1024px (md) & 1960px (lg) respectively.
 
 ### Contributions
-Anyone and everyone is welcome to contribute. Make sure you're using the latest version of Ada before submitting an issue. 
+Anyone and everyone is welcome to contribute. Make sure you're using the latest version of Ada before submitting an issue... 
 
